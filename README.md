@@ -3,5 +3,7 @@ The fundamentals of Machine Learning and Deep Learning from Scratch and from oth
 
 # References
 https://github.com/joelgrus/data-science-from-scratch
+
 https://github.com/ageron/handson-ml
+
 https://github.com/leriomaggio/deep-learning-keras-tensorflow
