@@ -18,7 +18,7 @@ The fundamentals of Machine Learning and Deep Learning from Scratch and from oth
 14. Expectation–Maximization
 15. PageRank
 16. Deep Neural Network (DNN)
-17. Other tasks: Receiver Operating Characteristic curve (ROC), Precision and recall, ...
+17. Evaluation Metrics: Receiver Operating Characteristic curve (ROC), Precision and recall, Mean Absolute Error (MAE), Root Mean Square Error (RMSE)
 
 # References
 https://github.com/joelgrus/data-science-from-scratch
