@@ -18,6 +18,7 @@ The fundamentals of Machine Learning and Deep Learning from Scratch and from oth
 14. Expectation–Maximization
 15. PageRank
 16. Deep Neural Network (DNN)
+17. Other tasks: Receiver Operating Characteristic curve (ROC), Precision and recall, ...
 
 # References
 https://github.com/joelgrus/data-science-from-scratch
